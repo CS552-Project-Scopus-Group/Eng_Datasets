@@ -14,6 +14,4 @@ Tr_Datasets'den farklı olarak sadece burada ingilizce karakter ile yazıldı.
 
 **final_merged_Authors_7_universities** = Burada 7 ildeki akademisyenlerin Üniversite, fakülte, department, title, name and surname bilgileri bulunmaktadır.
 
-**matched_data_with_gender_city_and_type_final** = Burada Scopus dataseti ile tüm Türkiye'deki akademisyenlerin isimleri match yapılıp eşleşen isimlerin name, number of articles, article publishing years, university name, author title, faculty, major, gender, city and type bilgileri bulunmaktadır.
-
 **organized_universities_academics** = Burada tüm Türkiye'den çekilmiş olan tüm üniversitelerdeki tüm akademisyenlerin university, name, title, faculty and department bilgileri bulunmaktadır. 
