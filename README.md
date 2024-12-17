@@ -13,6 +13,6 @@ Tr_Datasets'den farklı olarak sadece burada ingilizce karakter ile yazıldı.
 
 **All_Türkiye_University_List** = Burada tüm Türkiye'deki Üniversiteler ve onlara ait şehir ve tür bilgileri bulunmaktadır.
 
-**final_merged_Authors_7_universities** = Burada 7 ildeki akademisyenlerin Üniversite, fakülte, department, title, name and surname bilgileri bulunmaktadır.
+**final_merged_Authors_7_Cities_universities** = Burada 7 ildeki akademisyenlerin Üniversite, fakülte, department, title, name and surname bilgileri bulunmaktadır.
 
 **organized_all_Türkiye_universities_academics** = Burada tüm Türkiye'den çekilmiş olan tüm üniversitelerdeki tüm akademisyenlerin university, name, title, faculty and department bilgileri bulunmaktadır. 
