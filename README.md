@@ -3,7 +3,8 @@ Tr_Datasets'den farklı olarak sadece burada ingilizce karakter ile yazıldı.
 
 **7 Cities** = Bizim sorumlu olduğumuz şehirler için elde edilen datalardır
 
-**Scopus_Articles_in_Turkey_1854_2024_V2_eng_karakter boyutu büyük olduğu için dropbox'a koyduk ve linki:** https://www.dropbox.com/scl/fi/np5e3wbtfk3bwcuzw7x61/Scopus_Articles_in_T-rkiye_1854_2024_V2.csv?rlkey=6sq1vhi5izhxsg1nfob8rore4&st=2jystj7w&dl=0 
+**Scopus_Articles_in_Turkey_1854_2024_V2_eng_karakter boyutu büyük olduğu için dropbox'a koyduk ve linki:** 
+https://www.dropbox.com/scl/fi/sjmdw2yc0155873kshkf2/Scopus_Articles_in_Turkey_1854_2024_V2_eng_karakter.csv?rlkey=kzirinxkmhf68kag1kw4bhi4k&st=33qc6goi&dl=0
 
 
 **final_merged_all_univerisities** = 7 şehirdeki tüm ünilerin bilgileri tek bir excelde toplandı.
